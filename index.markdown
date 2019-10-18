@@ -89,7 +89,7 @@ and some dice!
 
 <h3>Q: Okay, but seriously, how do you play?</h3>
 
-You'll have to read the full ruleset (not released yet) for details, but here's how it goes:
+The full ruleset isn't ready yet, but here's a summary:
 
 Each player choses to play a Jammer or a Blocker. They create a derby name
 and look for their character, as well as assigning numbers to four
@@ -125,8 +125,8 @@ Are you ready to roll?
 ----------------------
 
 If you'd like to playtest or chat about Derby Drama, consider [joining the
-Discord Server](https://discord.gg/aMRn37u).  We play a game about once a
-week. You're also welcome to [email me](libby@derbydrama.com) if you'd like
+Discord Server](https://discord.gg/aMRn37u).  We play a game about every other
+week. You're also welcome to [email me](libby@libbyhoracek.com) if you'd like
 to run a playtest offline, as long as you don't mind giving plenty of feedback
 on how it goes!
 
