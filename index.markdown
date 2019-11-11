@@ -84,7 +84,7 @@ I was inspired by several games while making this, including:
   * John Harper's [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/)
 
 ...buuuuut I don't think <cite>The Bout</cite> is much like any of them! I <em>hope</em>
-that it's exactly like a roller derby bout squished into a book and character sheets
+that it's like all the emotions of a derby bout squished into a book and character sheets
 and some dice!
 
 <h3>Q: Okay, but seriously, how do you play?</h3>
@@ -98,8 +98,9 @@ stats: OFFENSE, DEFENSE, DRAMA, and HEART.
 Just like a real roller derby bout, <cite>The Bout</cite> is broken up
 into two periods, each having multiple jams.
 
-During a jam, players decide (secretly) on a specific strategy or play. Then, each team
-rolls the Team Dice that determine the score. Next, each player reveals
+During a jam, each team rolls the Team Dice that will determine
+the score. Then players decide (secretly) on a specific strategy or
+play.  Next, each player reveals
 their strategy. A good offensive strategy can allow your own team to
 re-roll a low score to gain more points. A
 good defensive strategy can force the opposing team to re-roll a high
