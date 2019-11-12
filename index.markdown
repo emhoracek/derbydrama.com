@@ -93,7 +93,7 @@ The full ruleset isn't ready yet, but here's a summary:
 
 Each player choses to play a Jammer or a Blocker. They create a derby name
 and look for their character, as well as assigning numbers to four
-stats: OFFENSE, DEFENSE, DRAMA, and HEART.
+stats: AGILITY, POWER, DRAMA, and HEART.
 
 Just like a real roller derby bout, <cite>The Bout</cite> is broken up
 into two periods, each having multiple jams.
