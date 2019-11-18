@@ -3,11 +3,12 @@ layout: default
 title: Derby Drama: The Bout
 ---
 
-Derby Drama: The Bout
-======================
+<img src="assets/images/derbydrama.png" />
 
-<cite>The Bout</cite> is a tabletop role-playing game about the drama and
-excitement of skating in a roller derby match. Each player
+<a id="about" />
+
+<cite>Derby Drama: The Bout</cite> is a tabletop role-playing
+game about the drama and excitement of skating in a roller derby match. Each player
 takes on the character of a skater in the bout and acts out
 both athletic competition and interpersonal conflict.
 
@@ -26,6 +27,8 @@ roller derby bout. Instead it’s intended to give the *feeling*
 of playing derby, with the drama and chaos dialed up to 11.
 You don’t need to be familiar with derby to enjoy or “win”
 <cite>The Bout</cite> (and hopefully losing is just as fun!)
+
+<a id="faq" />
 
 Frequently asked questions
 --------------------------
@@ -122,6 +125,8 @@ spirals out of control, and who knows what could happen?
 Hopefully this summary gets you excited to see the full rules and
 try out the game!
 
+<a id="learn" />
+
 Are you ready to roll?
 ----------------------
 
@@ -159,6 +164,8 @@ If you just want to hear about the latest news, sign up for the mailing list:
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+<a id="future" />
 
 The Future
 ----------------------

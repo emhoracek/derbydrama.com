@@ -4,3 +4,23 @@
 @import "{{ site.theme }}";
 
 cite { font-style: italic }
+
+header { background-color: rgb(158,0,255); border: 2px solid black; }
+
+
+header li { background: rgb(255,0,255);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid black;
+  color: white;
+  transition: background 2s, color 1s; }
+
+header li a { color: inherit }
+
+header li:hover { background: rgb(255,255,0);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 1px solid black;
+  color: black; }
+
+a { color: rgb(0,255,0) }
