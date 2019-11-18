@@ -3,9 +3,15 @@ layout: default
 title: Derby Drama: The Bout
 ---
 
-<img src="assets/images/derbydrama.png" />
-
 <a id="about" />
+
+<img srcset="/assets/images/derbydrama-320w.png 320w,
+             /assets/images/derbydrama-480w.png 480w,
+             /assets/images/derbydrama-800w.png 800w,
+             /assets/images/derbydrama.png 1500w"
+     sizes="(max-width: 1500px) 100vw
+            1500px"
+     src="assets/images/derbydrama-320w.png">
 
 <cite>Derby Drama: The Bout</cite> is a tabletop role-playing
 game about the drama and excitement of skating in a roller derby match. Each player
@@ -40,9 +46,7 @@ both new and experienced role-players.
 
 <h3>Q: Do I have to know about roller derby to play <cite>The Bout</cite>?</h3>
 
-A: Nope! First, <cite>The Bout</cite> is sports drama, and in any sports drama
-the sport itself is secondary to the relationships and conflicts
-between characters. Plus, the book has plenty reference images and information
+A: Nope! The book has plenty reference images and information
 to help new players easily fake some roller derby expertise.
 
 <h3>Q: How many players can play?</h3>
@@ -64,7 +68,7 @@ A: Yeah! *and* no! Like D&D, you and your friends take on
  fictional personas and tell a story together. Like D&D, you
  roll dice to decide what happens. Like D&D, it's super fun!
 
- But in other ways The Bout is really different. For one, <cite>The Bout</cite>
+ But in other ways this game is really different. For one, <cite>The Bout</cite>
  doesn't have a "Dungeon Master" (a single player who is responsible for the setting,
  enemies, and non-player characters). Instead, the players are
  all equally responsible for telling the story. <cite>The Bout</cite> is much simpler,
@@ -132,7 +136,7 @@ Are you ready to roll?
 
 If you'd like to playtest or chat about Derby Drama, consider [joining the
 Discord Server](https://discord.gg/aMRn37u).  We play a game about every other
-week. You're also welcome to [email me](libby@libbyhoracek.com) if you'd like
+week. You're also welcome to [email me](mailto:libby@libbyhoracek.com) if you'd like
 to run a playtest offline, as long as you don't mind giving plenty of feedback
 on how it goes!
 
