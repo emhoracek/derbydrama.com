@@ -11,7 +11,8 @@ title: Derby Drama: The Bout
              /assets/images/derbydrama.png 1500w"
      sizes="(max-width: 1500px) 100vw
             1500px"
-     src="assets/images/derbydrama-320w.png">
+     src="assets/images/derbydrama-320w.png"
+     alt="handwritten 'Derby Drama' and a roller skate">
 
 <cite>Derby Drama: The Bout</cite> is a tabletop role-playing
 game about the drama and excitement of skating in a roller derby match. Each player

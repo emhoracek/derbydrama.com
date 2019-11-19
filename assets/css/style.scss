@@ -5,17 +5,17 @@
 
 cite { font-style: italic }
 
-header { background-color: rgb(158,0,255); border: 2px solid black; }
+header { background-color: rgb(118,0,206); border: 2px solid black; }
 
-
-header li { background: rgb(255,0,255);
+header li { background: #ff77ff;
   -webkit-box-shadow: none;
   box-shadow: none;
   border: 1px solid black;
-  color: white;
+  color: #222;
   transition: background 2s, color 1s; }
 
 header li a { color: inherit }
+header li a:hover { color: rebeccapurple }
 
 header li:hover { background: rgb(255,255,0);
   -webkit-box-shadow: none;
@@ -23,6 +23,9 @@ header li:hover { background: rgb(255,255,0);
   border: 1px solid black;
   color: black; }
 
-a { color: rgb(0,200,0); font-weight: bold; }
+a { color: #060; font-weight: bold; }
+a:hover { color: rgb(0,200,0); font-weight: bold; }
 
 p img { max-width: 100% }
+
+#mc_embed_signup #mc-embedded-subscribe { color: black; background:#ff77ff; font-weight: bold; border: 1px solid black}
