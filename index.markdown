@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Derby Drama: The Bout
+title: " Derby Drama"
 ---
 
 <a id="about" />
@@ -14,12 +14,12 @@ title: Derby Drama: The Bout
      src="assets/images/derbydrama-320w.png"
      alt="handwritten 'Derby Drama' and a roller skate">
 
-<cite>Derby Drama: The Bout</cite> is a tabletop role-playing
+<cite>Derby Drama</cite> is a tabletop role-playing
 game about the drama and excitement of skating in a roller derby match. Each player
 takes on the character of a skater in the bout and acts out
 both athletic competition and interpersonal conflict.
 
-During <cite>The Bout</cite>, two teams play a series of rounds
+During <cite>Derby Drama</cite>, two teams play a series of rounds
 known as <strong>jams</strong>. In each jam, one <strong>jammer</strong>
 from each team attempts to score points by passing members
 of the other team. At the same time, <strong>blockers</strong>
@@ -33,32 +33,32 @@ This game is not intended to be a realistic simulation of a
 roller derby bout. Instead it’s intended to give the *feeling*
 of playing derby, with the drama and chaos dialed up to 11.
 You don’t need to be familiar with derby to enjoy or “win”
-<cite>The Bout</cite> (and hopefully losing is just as fun!)
+<cite>Derby Drama</cite> (and hopefully losing is just as fun!)
 
 <a id="faq" />
 
 Frequently asked questions
 --------------------------
 
-<h3>Q: Do I have to know about role-playing to play <cite>The Bout</cite>?</h3>
+<h3>Q: Do I have to know about role-playing to play?</h3>
 
-A: Nope! <cite>Derby Drama: The Bout</cite> is designed be easy to learn for
+A: Nope! <cite>Derby Drama</cite> is designed be easy to learn for
 both new and experienced role-players.
 
-<h3>Q: Do I have to know about roller derby to play <cite>The Bout</cite>?</h3>
+<h3>Q: Do I have to know about roller derby to play?</h3>
 
 A: Nope! The book has plenty reference images and information
 to help new players easily fake some roller derby expertise.
 
 <h3>Q: How many players can play?</h3>
 
-A: <cite>The Bout</cite> works best with two evenly divided teams of 1-3 players
+A: <cite>Derby Drama</cite> works best with two evenly divided teams of 1-3 players
 on each team. It can also work with uneven numbers of players
 with a bit of effort.
 
 <h3>Q: How long does the game take?</h3>
 
-A: <cite>The Bout</cite> takes two to three hours to play. Games with fewer players
+A: <cite>Derby Drama</cite> takes two to three hours to play. Games with fewer players
 will be shorter than a six player game. To shorten a game, you
 could try using a timer to add time pressure to the jams. (I have not tested this and I'm
 not sure it would be fun.)
@@ -69,18 +69,18 @@ A: Yeah! *and* no! Like D&D, you and your friends take on
  fictional personas and tell a story together. Like D&D, you
  roll dice to decide what happens. Like D&D, it's super fun!
 
- But in other ways this game is really different. For one, <cite>The Bout</cite>
+ But in other ways this game is really different. For one, <cite>Derby Drama</cite>
  doesn't have a "Dungeon Master" (a single player who is responsible for the setting,
  enemies, and non-player characters). Instead, the players are
- all equally responsible for telling the story. <cite>The Bout</cite> is much simpler,
+ all equally responsible for telling the story. <cite>Derby Drama</cite> is much simpler,
  and it's intended for one-shots instead of a long series of connected games. And
- <cite>The Bout</cite> uses only common six-sided dice, instead of D&D's several differently-sized
+ <cite>Derby Drama</cite> uses only common six-sided dice, instead of D&D's several differently-sized
  dice.
 
- If you like D&D, you may (or may not!) like The Bout! If you hate D&D,
- still consider giving <cite>The Bout</cite> a try.
+ If you like D&D, you may (or may not!) like <cite>Derby Drama</cite>! If you hate D&D,
+ still consider giving <cite>Derby Drama</cite> a try.
 
-<h3>Q: If <cite>The Bout</cite> isn't like D&D, what is it like?</h3>
+<h3>Q: If <cite>Derby Drama</cite> isn't like <cite>D&D</cite>, what is it like?</h3>
 
 I was inspired by several games while making this, including:
   * Avery Adler's [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (contempt tokens!)
@@ -91,7 +91,7 @@ I was inspired by several games while making this, including:
   * Lucian Kahn's [Visigoths vs Mall Goths](https://www.kickstarter.com/projects/luciankahn/visigoths-vs-mall-goths)
   * John Harper's [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/)
 
-...buuuuut I don't think <cite>The Bout</cite> is much like any of them! I <em>hope</em>
+...buuuuut I don't think <cite>Derby Drama</cite> is much like any of them! I <em>hope</em>
 that it's like all the emotions of a derby bout squished into a book and character sheets
 and some dice!
 
@@ -103,7 +103,7 @@ Each player choses to play a Jammer or a Blocker. They create a derby name
 and look for their character, as well as assigning numbers to four
 stats: AGILITY, POWER, DRAMA, and HEART.
 
-Just like a real roller derby bout, <cite>The Bout</cite> is broken up
+Just like a real roller derby bout, <cite>Derby Drama</cite> is broken up
 into two periods, each having multiple jams.
 
 During a jam, each team rolls the Team Dice that will determine
@@ -174,7 +174,7 @@ If you just want to hear about the latest news, sign up for the mailing list:
 
 The Future
 ----------------------
-<cite>Derby Drama: The Bout</cite> will be released someday soonish
+<cite>Derby Drama</cite> will be released someday soonish
 as a 32-page zine, complete with rules, a facilitation guide, and a
 premade setting (a small-town co-ed roller derby league). I'll
 also release a spreadsheet for online play and printable character
@@ -190,4 +190,4 @@ the star jammer gets pregnant? when your biggest sponsor drops the
 league? Can your league even survive to play the next bout?
 
 That game is going to happen -- someday. First, I want to make
-<cite>The Bout</cite> the most fun game it can be!
+<cite>Derby Drama</cite> the most fun game it can be!
