@@ -131,6 +131,12 @@ try out the game!
 
 <a id="learn" />
 
+<h3>Q: Who drew the beautiful art?</h3>
+
+The [illustration of skaters](/assets/images/skaters-kaylee-1080w.png) on this page is by the very talented [Kaylee Rowena](https://www.kayleerowena.com/)!
+
+(Illustrations in the game will be by myself and perhaps other artists TBD.)
+
 Are you ready to roll?
 ----------------------
 
