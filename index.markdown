@@ -8,7 +8,7 @@ title: " Derby Drama"
 <img srcset="/assets/images/derbydrama-320w.png 320w,
              /assets/images/derbydrama-480w.png 480w,
              /assets/images/derbydrama-800w.png 800w,
-             /assets/images/derbydrama.png 1500w"
+             /assets/images/derbydrama-1080w.png 1500w"
      sizes="(max-width: 1500px) 100vw
             1500px"
      src="assets/images/derbydrama-320w.png"
@@ -86,7 +86,6 @@ I was inspired by several games while making this, including:
   * Avery Adler's [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (contempt tokens!)
   * Grant Howitt's [Crash Pandas](https://gshowitt.itch.io/crash-pandas) (blind-bidding chaos)
   * Luke Crane's [Burning Wheel](https://www.burningwheel.com/) (binary dice pools)
-  * Epidiah Ravachol's [Swords Without Master](https://www.worldswithoutmaster.com/swords-without-master) (reading instructions while playing)
   * Sage LaTorra & Adam Koebel's [Dungeon World](https://dungeon-world.com/)
   * Lucian Kahn's [Visigoths vs Mall Goths](https://www.kickstarter.com/projects/luciankahn/visigoths-vs-mall-goths)
   * John Harper's [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/)

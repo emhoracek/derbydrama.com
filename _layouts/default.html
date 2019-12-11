@@ -18,6 +18,16 @@
   </head>
   <body>
     <div class="wrapper">
+      <figure class="background">
+        <img srcset="/assets/images/skaters-kaylee-320w.png 320w,
+        /assets/images/skaters-kaylee-480w.png 480w,
+        /assets/images/skaters-kaylee-800w.png 800w,
+        /assets/images/skaters-kaylee-1080w.png 1500w"
+        sizes="(max-width: 1500px) 100vw 1500px"
+        src="assets/images/skaters-kaylee-320w.png"
+        alt="Two roller derby skaters about to ???">
+      </figure>
+
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>

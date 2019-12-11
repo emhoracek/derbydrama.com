@@ -3,11 +3,22 @@
 
 @import "{{ site.theme }}";
 
+
+section {
+  padding-left: 1em;
+}
+
+.wrapper { max-width: 1080px; }
+
 cite { font-style: italic }
 
-header { background-color: rgb(118,0,206); border: 2px solid black; }
+.background img { position: fixed;
+  z-index: -1;
+  height: 100vh;}
 
-header li { background: #ff77ff;
+header { background-color: rgba($base-color, 0.75); border: 2px solid black; }
+
+header li { background: $secondary-color;
   -webkit-box-shadow: none;
   box-shadow: none;
   border: 1px solid black;
