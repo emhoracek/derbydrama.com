@@ -83,9 +83,9 @@ A: Yeah! *and* no! Like D&D, you and your friends take on
 <h3>Q: If <cite>Derby Drama</cite> isn't like <cite>D&D</cite>, what is it like?</h3>
 
 I was inspired by several games while making this, including:
-  * Avery Adler's [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year) (contempt tokens!)
-  * Grant Howitt's [Crash Pandas](https://gshowitt.itch.io/crash-pandas) (blind-bidding chaos)
-  * Luke Crane's [Burning Wheel](https://www.burningwheel.com/) (binary dice pools)
+  * Grant Howitt's [Crash Pandas](https://gshowitt.itch.io/crash-pandas)
+  * Avery Adler's [The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year)
+  * Luke Crane's [Burning Wheel](https://www.burningwheel.com/)
   * Sage LaTorra & Adam Koebel's [Dungeon World](https://dungeon-world.com/)
   * Lucian Kahn's [Visigoths vs Mall Goths](https://www.kickstarter.com/projects/luciankahn/visigoths-vs-mall-goths)
   * John Harper's [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/)
