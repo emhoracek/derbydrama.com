@@ -25,15 +25,27 @@ from each team attempts to score points by passing members
 of the other team. At the same time, <strong>blockers</strong>
 try to prevent the opposing jammer from passing
 members of their own team. The team with the most points wins
-the bout -- but at what cost? You will decide! Between jams,
-players can use HEART to encourage their own team or DRAMA to
-undermine their opponents.
+the bout -- but at what cost? You will decide!
 
 This game is not intended to be a realistic simulation of a
 roller derby bout. Instead it’s intended to give the *feeling*
 of playing derby, with the drama and chaos dialed up to 11.
 You don’t need to be familiar with derby to enjoy or “win”
 <cite>Derby Drama</cite> (and hopefully losing is just as fun!)
+
+<a id="updates" />
+
+Updates
+-------
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <a id="faq" />
 
@@ -88,7 +100,7 @@ I was inspired by several games while making this, including:
   * Luke Crane's [Burning Wheel](https://www.burningwheel.com/)
   * Sage LaTorra & Adam Koebel's [Dungeon World](https://dungeon-world.com/)
   * Lucian Kahn's [Visigoths vs Mall Goths](https://www.kickstarter.com/projects/luciankahn/visigoths-vs-mall-goths)
-  * John Harper's [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/)
+  * John Harper's [Blades in the Dark](https://bladesinthedark.com/greetings-scoundrel)
 
 ...buuuuut I don't think <cite>Derby Drama</cite> is much like any of them! I <em>hope</em>
 that it's like all the emotions of a derby bout squished into a book and character sheets
@@ -135,8 +147,6 @@ try out the game!
 
 The [illustration of skaters](/assets/images/skaters-kaylee-1080w.png) on this page is by the very talented [Kaylee Rowena](https://www.kayleerowena.com/)!
 
-(Illustrations in the game will be by myself and perhaps other artists TBD.)
-
 Are you ready to roll?
 ----------------------
 
@@ -179,20 +189,15 @@ If you just want to hear about the latest news, sign up for the mailing list:
 
 The Future
 ----------------------
-<cite>Derby Drama</cite> will be released someday soonish
-as a 32-page zine, complete with rules, a facilitation guide, and a
-premade setting (a small-town co-ed roller derby league). I'll
-also release a spreadsheet for online play and printable character
-sheets for offline play.
+I plan to fund <cite>Derby Drama</cite> during [ZineQuest 2](https://creators.kickstarter.com/zine-quest/) in
+February 2020. The game will be released as a set of three zines: a rule and facilitation guide, an
+illustrated guide to roller derby moves and a short premade setting
+(a small-town co-ed roller derby league). I'll also release PDFs and a spreadsheet
+ for online play and printable character sheets for offline play.
 
-Eventually I hope to expand the game to allow ongoing campaigns about
-the trials and travails of running a non-profit roller derby league,
-including training, committees, and balancing family, work, and roller derby.
-This will be a sort of higher-level resource-management and
-diplomacy game -- can you find a practice space? can you recruit and
-train new skaters? can you retain your veterans? what happens when
-the star jammer gets pregnant? when your biggest sponsor drops the
-league? Can your league even survive to play the next bout?
+<img src="/assets/images/zinequest2.png" class="zinequest">
 
-That game is going to happen -- someday. First, I want to make
-<cite>Derby Drama</cite> the most fun game it can be!
+I support [Kickstarter United](https://kickstarterunited.org/action/) and urge Kickstarter to recognize the union.
+If Kickstarter United requests a boycott, I'll skip ZineQuest and raise money elsewhere to print the zine.
+
+<img src="/assets/images/ksu_logo.png" class="ksu">

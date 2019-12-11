@@ -6,7 +6,14 @@
       {% include header.html %}
 
       <section>
+        <h2>{{ page.title }}</h2>
+
         {{ content }}
+
+        <hr />
+
+        <p class="right">Posted {{ page.date | date: '%B %d, %Y' }}</p>
+
       </section>
 
       <footer>
