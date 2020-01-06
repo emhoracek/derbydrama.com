@@ -1,0 +1,168 @@
+---
+layout: default
+title: "Roller Derby Bout Setting Generator"
+---
+
+<style>
+  .vert-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 50vh;}
+  p {
+    font-size: 1.25em;
+    line-height: 2em;
+  }
+  span {
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 2.25ex;
+  }
+  .vert-center button {
+    align-self: end;
+    padding: 0.5em;
+    font-size: 1.5em;
+    background: #ee287b;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-self: end;
+  }
+</style>
+
+<div class="vert-center">
+<h1>{{ page.title }}</h1>
+
+
+<p class="centered">
+  This is <span id="tone">a tone</span> about a roller derby bout in
+  <span id="time_period">time period</span> <span id="location">location</span>. The skaters are
+  <span id="skater_type">skater type</span><span id="skater_post_modifier">skater post modifier</span> playing for <span id="stakes">stakes</span>.
+</p>
+
+<button id="randomize">Randomize again!</button>
+
+</div>
+
+
+<script>
+  var tone_span = document.getElementById("tone");
+  var loc_span = document.getElementById("location");
+  var time_period_span = document.getElementById("time_period");
+  var skater_type_span = document.getElementById("skater_type");
+  var skater_post_modifier_span = document.getElementById("skater_post_modifier");
+  var stakes_span = document.getElementById("stakes");
+  var randomize_button = document.getElementById("randomize");
+
+  function random(items) {
+    return items[Math.floor(Math.random()*items.length)];
+  }
+
+  const TONES =
+        [ "a melodramatic yarn"
+        , "a complicated story"
+        , "an inspirational tale"
+        , "a Lifetime orginial movie"
+        , "a Hollywood blockbuster"
+        , "a comedy"
+        , "a heart-warming tale"
+        , "an action-packed tale"
+        , "a romantic story"
+        , "a fairy tale"
+        , "a sitcom episode"
+        , "a comic book"
+        , "a scifi story"
+        , "an over-the-top tale"
+        , "a gonzo tale"
+        , "a serious story"
+        , "an understated story"
+        , "a down-to-earth story" ];
+
+  const TIME_PERIODS =
+        [ "19th century"
+        , "1950s"
+        , "1960s"
+        , "1970s"
+        , "1980s"
+        , "early 2000s"
+        , "modern-day"
+        , "1950s"
+        , "1960s"
+        , "1970s"
+        , "1980s"
+        , "early 2000s"
+        , "modern-day"
+        , "medieval"
+        , "feudal"
+        , "ancient"
+        , "futuristic"
+        , "cyberpunk"];
+
+  const LOCATIONS =
+        [ "small town America"
+        , "New York"
+        , "Los Angeles"
+        , "Portland"
+        , "London"
+        , "Texas"
+        , "Europe"
+        , "Japan"
+        , "Argentina"
+        , "Egypt"
+        , "outer space"];
+
+  const SKATER_TYPES =
+        [ "professional athletes"
+        , "casual athletes"
+        , "serious athletes"
+        , "casual athletes"
+        , "serious athletes"
+        , "heroes and villains"
+        , "weirdos and misfits"
+        , "punks and rebels"
+        , "small children"
+        , "teenagers"
+        , "senior citizens"
+        , "talking animals"
+        , "fantastical creatures" ];
+
+  const SKATER_POST_MODIFIERS =
+        [ " with disabilities"
+        , " with superpowers"
+        , " with magical powers"
+        , ""
+        , ""
+        , ""
+        , ""
+        , ""
+        , ""];
+
+  const STAKES =
+        [ "a cash prize"
+        , "the world championship trophy"
+        , "a regional tournament title"
+        , "fame and glory"
+        , "survival (as in the Hunger Games)"
+        , "survival (of the team or league)"
+        , "charity"
+        , "fun"
+        , "the chance of a lifetime"
+        , "civic pride"
+        , "national pride"
+        , "their last chance at freedom"
+        , "control over an important resource"];
+
+  function randomize() {
+    tone_span.innerText = random(TONES);
+    loc_span.innerText = random(LOCATIONS);
+    skater_type_span.innerText = random(SKATER_TYPES);
+    skater_post_modifier_span.innerText = random(SKATER_POST_MODIFIERS);
+    time_period_span.innerText = random(TIME_PERIODS);
+    stakes_span.innerText = random(STAKES);
+  }
+
+  randomize();
+
+  randomize_button.addEventListener("click", function(e) { randomize(); })
+
+</script>
