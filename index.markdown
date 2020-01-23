@@ -14,6 +14,8 @@ title: " Derby Drama"
      src="assets/images/derbydrama-320w.png"
      alt="handwritten 'Derby Drama' and a roller skate">
 
+<strong><a href="https://derbydrama.eventsmart.com/events/derby-drama-game-preview/">RSVP here for the Wheeling, WV preview</a></strong>
+
 <cite>Derby Drama</cite> is a tabletop role-playing
 game about the drama and excitement of skating in a roller derby match. Each player
 takes on the character of a skater in the bout and acts out
@@ -37,8 +39,6 @@ You don’t need to be familiar with derby to enjoy or “win”
 
 Updates
 -------
-
-<strong><a href="https://derbydrama.eventsmart.com/events/derby-drama-game-preview/">RSVP here for the Wheeling, WV preview</a></strong>
 
 <ul>
   {% for post in site.posts %}
