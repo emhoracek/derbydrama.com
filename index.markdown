@@ -33,6 +33,10 @@ of playing derby, with the drama and chaos dialed up to 11.
 You don’t need to be familiar with derby to enjoy or “win”
 <cite>Derby Drama</cite> (and hopefully losing is just as fun!)
 
+<h3>The <cite>Derby Drama</cite> Kickstarter is live <strong>now!</strong></h3>
+
+<a href="https://www.kickstarter.com/projects/horrorcheck/derby-drama"><button style="background:#ee287b; color:black; display:block; font-size: 1.5em; padding: 1em; margin:auto; border-radius: 5px; border:1px solid black">Back on Kickstarter</button></a>
+
 <a id="updates" />
 
 Updates
