@@ -78,86 +78,176 @@ title: "Roller Derby Bout Setting Generator"
         , "an understated story"
         , "a down-to-earth story" ];
 
-  const TIME_PERIODS =
-        [ "19th century"
-        , "1950s"
-        , "1960s"
-        , "1970s"
-        , "1980s"
-        , "early 2000s"
-        , "modern-day"
-        , "1950s"
-        , "1960s"
-        , "1970s"
-        , "1980s"
-        , "early 2000s"
-        , "modern-day"
-        , "medieval"
-        , "feudal"
-        , "ancient"
-        , "futuristic"
-        , "cyberpunk"];
-
   const LOCATIONS =
-        [ "small town America"
-        , "New York"
-        , "Los Angeles"
-        , "Portland"
-        , "London"
-        , "Texas"
-        , "Europe"
-        , "Japan"
-        , "Argentina"
-        , "Egypt"
-        , "outer space"];
+        { small_town:
+          { location:"small town America",
+            extra: "" }
+        , chicago:
+          { location:"Chicago",
+            extra: "" }
+        , new_york:
+          { location:"New York",
+            extra: "" }
+        , los_angeles:
+          { location:"Los Angeles",
+            extra: "" }
+        , portland:
+          { location:"Portland",
+            extra: "", }
+        , london:
+          { location:"London",
+            extra: "" }
+        , texas:
+          { location:"Texas",
+            extra: "" }
+        , europe:
+          { location:"Europe",
+            extra: "" }
+        , japan:
+          { location:"Japan",
+            extra: "" }
+        , argentina:
+          { location:"Argentina",
+            extra: "" }
+        , egypt:
+          { location:"Egypt",
+            extra: "" }
+        , outer_space:
+          { location:"outer space",
+            extra: "" }
+        };
+  const ANY_LOCATION = Object.keys(LOCATIONS)
 
   const SKATER_TYPES =
-        [ "professional athletes"
-        , "casual athletes"
-        , "serious athletes"
-        , "casual athletes"
-        , "serious athletes"
-        , "heroes and villains"
-        , "weirdos and misfits"
-        , "punks and rebels"
-        , "small children"
-        , "teenagers"
-        , "senior citizens"
-        , "talking animals"
-        , "fantastical creatures" ];
-
-  const SKATER_POST_MODIFIERS =
-        [ " with disabilities"
-        , " with superpowers"
-        , " with magical powers"
-        , ""
-        , ""
-        , ""
-        , ""
-        , ""
-        , ""];
+        { pros:
+            { text: "professional athletes"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , casual:
+            { text: "casual athletes"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , serious:
+            { text: "serious athletes"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , heroes:
+            { text: "heroes and villains"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , weirdos:
+            { text: "weirdos and misfits"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , punks:
+            { text: "punks and rebels"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , teens:
+            { text: "teenagers"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , elders:
+            { text: "senior citizens"
+            , modifiers: [" with disabilities", " with superpowers", " with magical powers", "", "", "", "", ""] }
+        , animals:
+           { text: "talking animals", modifiers: [""] }
+        , monsters:
+           { text: "monsters", modifiers: [""] }
+        , cryptids:
+           { text: "cryptids", modifiers: [""] }
+        , fighters:
+          { text: "elite warriors", modifiers: [""]}
+        , princesses:
+          { text: "princesses", modifiers: [""]}
+        }
+  const ANY_SKATERS = Object.keys(SKATER_TYPES);
 
   const STAKES =
         [ "a cash prize"
         , "the world championship trophy"
         , "a regional tournament title"
         , "fame and glory"
-        , "survival (as in the Hunger Games)"
-        , "survival (of the team or league)"
+        , "their own survival"
+        , "the survival of the sport"
         , "charity"
         , "fun"
         , "the chance of a lifetime"
         , "civic pride"
         , "national pride"
+        , "the fate of the entire world"
         , "their last chance at freedom"
         , "control over an important resource"];
 
+  const TIME_PERIODS =
+        { t19:
+          { text: "19th century",
+            places: ["london", "europe"],
+            skaters: ANY_SKATERS,
+            extra: "Quad roller skates where first invented in 1863. In another universe, maybe roller derby got an earlier start!" }
+        , depression:
+          { text: "Depression-era",
+            places: ["chicago", "new_york", "los_angeles"],
+            skaters: [ "pros", "casual", "serious", "weirdos", "punks", "teens", "monsters" ],
+            extra: "Roller derby was first invented during the Great Depression"}
+        , fifties:
+          { text: "1950s",
+            places: ["chicago", "new_york", "los_angeles"],
+            skaters: [ "pros", "weirdos", "punks", "teens", "monsters" ],
+            extra: "Roller derby's golden days of popularity and financial success"}
+        , seventies:
+          { text: "1970s",
+            places: ["chicago", "new_york", "los_angeles", "japan", "europe"],
+            skaters: [ "pros", "weirdos", "punks", "monsters" ],
+            extra: "When professional roller derby began to decline"}
+        , eighties:
+          { text: "1980s",
+            places: ["los_angeles"],
+            skaters: ANY_SKATERS,
+            extra: "The time period of the Rollergames TV show (and the crocodile pit!!)"}
+        , nineties:
+          { text: "1990s",
+            skaters: [ "pros", "casual", "serious", "weirdos", "punks", "teens", "monsters" ],
+            places: ["japan", "los_angeles"],
+            extra: "Japan's Roller Game and the US TV show RollerJam keep the sport alive"}
+        , naughties:
+          { text: "early 2000s",
+            skaters: [ "casual", "serious", "weirdos", "punks", "teens", "monsters" ],
+            places: ["texas", "new_york", "detroit", "portland", "chicago"],
+            extra: "When roller derby came back as an all-women, all-volunteer sport on the flat track"}
+        , modern:
+          { text: "modern-day",
+            places: ANY_LOCATION,
+            skaters: ANY_SKATERS,
+            extra: "Roller derby is a world-wide volunteer sport, run mostly by women in the Women's Flat Track Roller Derby Association."}
+        , medieval:
+          { text: "medieval",
+            skaters: ANY_SKATERS,
+            places: ["europe"] }
+        , feudal:
+          { text: "feudal",
+            skaters: ANY_SKATERS,
+            places: ["japan"] }
+        , ancient:
+          { text: "ancient",
+            places: ["egypt", "europe", "outer space"],
+            skaters: ANY_SKATERS,
+            extra: ""}
+        , futuristic:
+          { text: "futuristic",
+            places: ANY_LOCATION,
+            skaters: ANY_SKATERS,
+            extra: ""}
+        , cyberpunk:
+          { text: "cyberpunk",
+            places: ANY_LOCATION,
+            skaters: ANY_SKATERS,
+            extra: ""}
+        };
+
   function randomize() {
     tone_span.innerText = random(TONES);
-    loc_span.innerText = random(LOCATIONS);
-    skater_type_span.innerText = random(SKATER_TYPES);
-    skater_post_modifier_span.innerText = random(SKATER_POST_MODIFIERS);
-    time_period_span.innerText = random(TIME_PERIODS);
+
+    var time_period = TIME_PERIODS[random(Object.keys(TIME_PERIODS))];
+    time_period_span.innerText = time_period.text;
+    var location = LOCATIONS[random(time_period.places)];
+    loc_span.innerText = location.location;
+    var skater_type = SKATER_TYPES[random(time_period.skaters)];
+    skater_type_span.innerText = skater_type.text;
+    skater_post_modifier_span.innerText = random(skater_type.modifiers);
     stakes_span.innerText = random(STAKES);
   }
 
