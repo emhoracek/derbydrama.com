@@ -76,6 +76,7 @@ Each move has a different effect when you succeed.
 ### Off-track Moves
 | Boost Morale | HEART | Relieve stress, gain advantage |
 | Stir Up Drama | DRAMA | Give stress, give a disadvantage | 
+| --- | --- | --- |
 
 ### On-track Moves
 
