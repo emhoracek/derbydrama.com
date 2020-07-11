@@ -3,9 +3,9 @@ layout: default
 title: "Online Play Resources"
 ---
 
-## {{ page.title }}
+# {{ page.title }}
 
-# Tools and Materials
+## Tools and Materials
 
 * A place to communicate such as Discord, Google Hangouts, Zoom, Streamyard, or similar. You can use voice, video, or even text chat.
 * A dice roller. You can use a tool like Roll20, rollforyour.party, rolldicewithfriends.com, rolz.org, or a plug-in for Discord. Or let folks use their own meatspace dice (but then you don’t have the fun of seeing everyone’s results right away…)
@@ -74,11 +74,16 @@ Any time you have no successes, your move backfires or fails, your team takes a 
 Each move has a different effect when you succeed.
 
 ### Off-track Moves
+| --- | --- | --- |
 | Boost Morale | HEART | Relieve stress, gain advantage |
 | Stir Up Drama | DRAMA | Give stress, give a disadvantage | 
+| --- | --- | --- |
 
 ### On-track Moves
+
+| --- | --- | --- |
 | Offense | POWER or AGILITY | Increase your own team’s score  |
 | Defense | POWER or AGILITY | Decrease your opponent’s score |
 | Set ‘Em Up | HEART | Give an advantage, relieve stress |
 | Shut ‘Em Down | DRAMA | Give a disadvantage, give stress |
+| --- | --- | --- |
