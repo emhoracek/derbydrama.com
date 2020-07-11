@@ -74,10 +74,11 @@ Any time you have no successes, your move backfires or fails, your team takes a 
 Each move has a different effect when you succeed.
 
 ### Off-track Moves
+
 | Move | Stat | 1 success | 2+ successes |
 | --- | --- | --- | --- |
-| Boost Morale | HEART | Relieve stress | gain advantage |
-| Stir Up Drama | DRAMA | Give stress | give a disadvantage |
+| Boost Morale | HEART | Relieve stress | Gain an advantage |
+| Stir Up Drama | DRAMA | Give stress | Give a disadvantage |
 
 ### On-track Moves
 
