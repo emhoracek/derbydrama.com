@@ -20,17 +20,17 @@ cite { font-style: italic }
 
 header { background-color: rgba($base-color, 0.75); border: 2px solid black; }
 
-header li { background: $secondary-color;
+.btn, header li { background: $secondary-color;
   -webkit-box-shadow: none;
   box-shadow: none;
   border: 1px solid black;
   color: #222;
   transition: background 2s, color 1s; }
 
-header li a { color: inherit }
-header li a:hover { color: rebeccapurple }
+.btn a, header li a { color: inherit }
+.btn a:hover, header li a:hover { color: rebeccapurple }
 
-header li:hover { background: rgb(255,255,0);
+.btn:hover, header li:hover { background: rgb(255,255,0);
   -webkit-box-shadow: none;
   box-shadow: none;
   border: 1px solid black;
@@ -44,10 +44,6 @@ p img { max-width: 100% }
 #mc_embed_signup #mc-embedded-subscribe { color: black; background:#ff77ff; font-weight: bold; border: 1px solid black}
 
 .btn.preorder {
-  color: black; 
-  background: $secondary-color; 
-  font-weight: bold; 
-  border: 1px solid black;
   border-radius: 5px;
   padding: 0.5em;
   margin: auto;
