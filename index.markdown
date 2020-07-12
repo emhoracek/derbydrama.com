@@ -27,12 +27,6 @@ try to prevent the opposing jammer from passing
 members of their own team. The team with the most points wins
 the bout -- but at what cost? You will decide!
 
-This game is not intended to be a realistic simulation of a
-roller derby bout. Instead it’s intended to give the *feeling*
-of playing derby, with the drama and chaos dialed up to 11.
-You don’t need to be familiar with derby to enjoy or “win”
-<cite>Derby Drama</cite> (and hopefully losing is just as fun!)
-
 <a class="btn preorder" href="https://derby-drama.backerkit.com/hosted_preorders">Pre-order the game today!</a>
 
 <a id="updates" />
@@ -72,10 +66,9 @@ with a bit of effort.
 
 <h3>Q: How long does the game take?</h3>
 
-A: <cite>Derby Drama</cite> takes two to three hours to play. Games with fewer players
-will be shorter than a six player game. To shorten a game, you
-could try using a timer to add time pressure to the jams. (I have not tested this and I'm
-not sure it would be fun.)
+A: Just like real roller derby, <cite>Derby Drama</cite> is divided up into 
+phases called "jams". It takes two to four hours to play if you 
+play three jams in each half of the game. To shorten a game, just play fewer jams!
 
 <h3>Q: "Tabletop role-playing" - so like <cite>Dungeons & Dragons?</cite></h3>
 
@@ -123,10 +116,10 @@ During a jam, each team rolls the Team Dice that will determine
 the score. Then players decide (secretly) on a specific strategy or
 play.  Next, each player reveals
 their strategy. A good offensive strategy can allow your own team to
-re-roll a low score to gain more points. A
-good defensive strategy can force the opposing team to re-roll a high
-score. A failed strategy can lead to a penalty -- making scoring in the
-next jam all the more difficult.
+replace low team dice to gain more points. A
+good defensive strategy can force the opposing team to replace a high
+team die. A failed strategy can lead to a disadvantage -- making scoring 
+all the more difficult.
 
 When all the players have played out their strategies, the Team Dice
 totals are added to the Scoreboard. The team with the highest score
