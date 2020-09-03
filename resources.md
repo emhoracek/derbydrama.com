@@ -13,7 +13,7 @@ See the [Online Play section](/online-play.html) for web-based playsheets.
 
 [World Wide Roller League Playbooks (PDF)](/assets/images/derby_drama_sheets-main.pdf) - Includes the Golden Boy/Girl, Villain, Pure Skater, and Sex Appeal playbooks for both jammers and blockers
 
-[Editable Playbook (PDF)](/assets/images/derby_drama_generic.pdf) - An editable playbook that includes data for all the playbooks, plus allows you to create your own custom playbook from scratch.
+[Editable Playbook (PDF)](/assets/images/derby_drama_generic_sheet.pdf) - An editable playbook that includes data for all the playbooks, plus allows you to create your own custom playbook from scratch.
 
 # Facilitation Cheat Sheets
 
@@ -60,8 +60,9 @@ Each move has a different effect when you succeed.
 
 ## On-track Moves
 
-| Move | Stat | On a success... |
+| Move | Stat | 1 success | 2+ successes |
+| --- | --- | --- | --- |
 | Offense | POWER or AGILITY | Increase your own team’s score  |
 | Defense | POWER or AGILITY | Decrease your opponent’s score |
-| Set ‘Em Up | HEART | Give an advantage, relieve stress |
-| Shut ‘Em Down | DRAMA | Give a disadvantage, give stress |
+| Set ‘Em Up | HEART | Give an advantage | Relieve stress |
+| Shut ‘Em Down | DRAMA | Give a disadvantage | Give stress |
