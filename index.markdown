@@ -27,7 +27,7 @@ try to prevent the opposing jammer from passing
 members of their own team. The team with the most points wins
 the bout -- but at what cost? You will decide!
 
-<a class="btn preorder" href="https://derby-drama.backerkit.com/hosted_preorders">Pre-order the game today!</a>
+<a class="btn preorder" href="https://horrorcheck.itch.io/derby-drama">Download the game today!</a>
 
 <a id="updates" />
 
@@ -66,8 +66,8 @@ with a bit of effort.
 
 <h3>Q: How long does the game take?</h3>
 
-A: Just like real roller derby, <cite>Derby Drama</cite> is divided up into 
-phases called "jams". It takes two to four hours to play if you 
+A: Just like real roller derby, <cite>Derby Drama</cite> is divided up into
+phases called "jams". It takes two to four hours to play if you
 play three jams in each half of the game. To shorten a game, just play fewer jams!
 
 <h3>Q: "Tabletop role-playing" - so like <cite>Dungeons & Dragons?</cite></h3>
@@ -118,7 +118,7 @@ play.  Next, each player reveals
 their strategy. A good offensive strategy can allow your own team to
 replace low team dice to gain more points. A
 good defensive strategy can force the opposing team to replace a high
-team die. A failed strategy can lead to a disadvantage -- making scoring 
+team die. A failed strategy can lead to a disadvantage -- making scoring
 all the more difficult.
 
 When all the players have played out their strategies, the Team Dice
