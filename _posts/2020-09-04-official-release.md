@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The game is released!!"
+title:  "Official release!"
 ---
 
 I'm so excited to announce that [Derby Drama version 1.0](https://horrorcheck.itch.io/derby-drama) is OUT now and available for purchase and download on itch.io.
