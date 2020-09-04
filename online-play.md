@@ -19,6 +19,62 @@ title: "Online Play"
 ## Safety Tools
 The rule book includes instructions for the “X-Card” and “Official Time-out” safety tools and you can still use those online. Instead of using a physical card, you can type in chat or say “X that” out loud. Offer methods for players to reach you personally such as direct message or private chat and make sure to watch for messages during the game, because players may be wary of speaking up in front of other players. In this way, playing online is actually nicer than playing at a table, where it’s harder to communicate privately!
 
+## Using the Playsheet
+
+As you're playing, you'll use each sheet in the numbered order.
+
+### 1. Setting
+
+Answer the setting questions in the sheet named “1. Setting”.
+
+### 2. Teams
+
+Split players into two teams. Put your name and your character’s in the sheet named “2. Teams”.
+
+### 3. Scoreboard
+
+The Scoreboard is where you keep track of the current score. If you’re not
+using Roll For Your Party (see the section below), you can track Team Dice here.
+
+Make sure to enter how many players are on each team in those cells.
+
+The scoreboard also shows the Energy Pool.
+'
+This is the sheet where you will select Strategies during the Jam.
+
+### 4. Team Rosters
+
+Go to your team’s sheet and take a character card for the position
+you want to play. The first card in each team is the Jammer and the
+other cards are for blockers.
+
+Each Position has multiple Playbooks that suggest
+ Stats, Looks, Strategies, and Bonds. Choose a Playbook for your skater
+ by clicking the arrow on the cell.
+
+Add one point to any of your stats so that you have a total of seven. To
+do this you have to delete the formula in that cell and replace it with
+just the number.
+
+Write one bond with a teammate and one bond with an opponent. You can
+use the suggestions listed above or make up your own.
+
+### Playing the Jams
+
+If you get an advantage or disadvantage, put the number of advantages or
+disadvantages in the white field under "-" or "+" on the Scoreboard.
+
+When you roll your dice (assuming you're not using )
+
+The trickiest bit is the secret strategy. If I'm playing with folks for the
+first time, I usually just have everyone choose strategies openly for
+for the first jam. So make sure "Show secret strategies" is checked if you
+want to do that.
+
+When you're doing secret strategies, uncheck "Show secret strategies".
+Players won't be able to see their own or each others' strategies, so
+they can enter them in the formula (fx) bar.
+
 ## Using Roll For Your Party
 
 My favorite dice roller is Roll For Your Party, because you can place your dice
@@ -29,7 +85,7 @@ If you want to use Roll For Your Party in this way, go to [rollforyour.party](ht
 to create a room. Set up the room so you have it ready before the game.
 First add several dice by typing the number of dice to the left of the label for “d6”, then click the “Submit” button. I like to add at least ten.
 
-![/assets/images/rfyp1.png]()
+![](/assets/images/rfyp1.png)
 
 Next add two labels. Copy and paste each of these into the “label” box:
 
@@ -38,20 +94,19 @@ Next add two labels. Copy and paste each of these into the “label” box:
 - ------- Team 2 ------ +
 ```
 
-![/assets/images/rfyp2.png]()
+![](/assets/images/rfyp2.png)
 
 Now you can close the top section by clicking the little black arrow at the top.
 
-
-![/assets/images/rfyp3.png]()
+![](/assets/images/rfyp3.png)
 
 Now you can rearrange the dice. Make a big pile in the center, and put two dice under the center of each label, like below:
 
-![/assets/images/rfyp4.png]()
+![](/assets/images/rfyp4.png)
 
 To roll the dice, first click once on the colored part of the die to select the die. You’ll see a red outline. Then doubleclick to roll all the selected dice.
 
-![/assets/images/rfyp5.png]()
+![](/assets/images/rfyp5.png)
 
 Share the rollforyour.party room URL with the other players.
 
