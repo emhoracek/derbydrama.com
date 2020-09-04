@@ -19,6 +19,43 @@ title: "Online Play"
 ## Safety Tools
 The rule book includes instructions for the “X-Card” and “Official Time-out” safety tools and you can still use those online. Instead of using a physical card, you can type in chat or say “X that” out loud. Offer methods for players to reach you personally such as direct message or private chat and make sure to watch for messages during the game, because players may be wary of speaking up in front of other players. In this way, playing online is actually nicer than playing at a table, where it’s harder to communicate privately!
 
+## Using Roll For Your Party
+
+My favorite dice roller is Roll For Your Party, because you can place your dice
+however you want and keep track of Team Dice without always referring back to the
+playsheet.
+
+If you want to use Roll For Your Party in this way, go to [rollforyour.party](https://rollforyour.party)
+to create a room. Set up the room so you have it ready before the game.
+First add several dice by typing the number of dice to the left of the label for “d6”, then click the “Submit” button. I like to add at least ten.
+
+![/assets/images/rfyp1.png]()
+
+Next add two labels. Copy and paste each of these into the “label” box:
+
+```
+- ------- Team 1 ------ +
+- ------- Team 2 ------ +
+```
+
+![/assets/images/rfyp2.png]()
+
+Now you can close the top section by clicking the little black arrow at the top.
+
+
+![/assets/images/rfyp3.png]()
+
+Now you can rearrange the dice. Make a big pile in the center, and put two dice under the center of each label, like below:
+
+![/assets/images/rfyp4.png]()
+
+To roll the dice, first click once on the colored part of the die to select the die. You’ll see a red outline. Then doubleclick to roll all the selected dice.
+
+![/assets/images/rfyp5.png]()
+
+Share the rollforyour.party room URL with the other players.
+
+
 ## Tips for online facilitation
 
 ### Avoiding awkward pauses and helping quiet players
