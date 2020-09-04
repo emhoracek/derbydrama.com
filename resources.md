@@ -53,14 +53,14 @@ Each move has a different effect when you succeed.
 
 ## Off-track Moves
 
-| Move | Stat | 1 success | 2+ successes |
+| Move | Stat | 1+ success | 2+ successes |
 | --- | --- | --- | --- |
 | Boost Morale | HEART | Relieve stress | Gain an advantage |
 | Stir Up Drama | DRAMA | Give stress | Give a disadvantage |
 
 ## On-track Moves
 
-| Move | Stat | 1 success | 2+ successes |
+| Move | Stat | 1+ success | 2+ successes |
 | --- | --- | --- | --- |
 | Offense | POWER or AGILITY | Increase your own team’s score  |
 | Defense | POWER or AGILITY | Decrease your opponent’s score |
