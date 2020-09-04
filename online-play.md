@@ -29,18 +29,16 @@ Answer the setting questions in the sheet named “1. Setting”.
 
 ### 2. Teams
 
-Split players into two teams. Put your name and your character’s in the sheet named “2. Teams”.
+When the player split into teams, put your name and your character’s in the sheet named “2. Teams”.
 
 ### 3. Scoreboard
 
 The Scoreboard is where you keep track of the current score. If you’re not
 using Roll For Your Party (see the section below), you can track Team Dice here.
 
-Make sure to enter how many players are on each team in those cells.
+Make sure to enter how many players are on each team in the cells at the bottom of each team section.
 
-The scoreboard also shows the Energy Pool.
-'
-This is the sheet where you will select Strategies during the Jam.
+This is also the sheet where you will select Strategies during the Jam.
 
 ### 4. Team Rosters
 
@@ -54,17 +52,19 @@ Each Position has multiple Playbooks that suggest
 
 Add one point to any of your stats so that you have a total of seven. To
 do this you have to delete the formula in that cell and replace it with
-just the number.
+just a number.
 
 Write one bond with a teammate and one bond with an opponent. You can
 use the suggestions listed above or make up your own.
 
 ### Playing the Jams
 
-If you get an advantage or disadvantage, put the number of advantages or
-disadvantages in the white field under "-" or "+" on the Scoreboard.
-
-When you roll your dice (assuming you're not using )
+Assuming you're not using Roll For Your Party to keep track of Team Dice, you'll
+use the dice section of the Scoreboard. If you get an advantage or disadvantage,
+put the number of advantages or disadvantages in the field with the white
+background under "-" or "+" on the Scoreboard. After you roll the Team Dice,
+put their values in the fields with the white backgrounds next to the dice emoji.
+Remember to empty the disadvantage and advantage fields after you roll the Team Dice.
 
 The trickiest bit is the secret strategy. If I'm playing with folks for the
 first time, I usually just have everyone choose strategies openly for
