@@ -13,7 +13,7 @@ See the [Online Play section](/online-play.html) for web-based playsheets.
 
 [World Wide Roller League Playbooks (PDF)](/assets/images/derby_drama_sheets-main.pdf) - Includes the Golden Boy/Girl, Villain, Pure Skater, and Sex Appeal playbooks for both jammers and blockers
 
-[Editable Playbook (PDF)](/assets/images/derby_drama_generic_sheet.pdf) - An editable playbook that includes data for all the playbooks, plus allows you to create your own custom playbook from scratch.
+[Editable Playbook (PDF)](/assets/images/derby_drama_generic_sheet.pdf) - An editable playbook that includes data for all the playbooks, plus allows you to create your own custom playbook from scratch. Doesn't work on all PDF readers.
 
 # Facilitation Cheat Sheets
 
