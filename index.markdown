@@ -180,19 +180,11 @@ If you just want to hear about the latest news, sign up for the mailing list:
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-<a id="future" />
-
-The Future
-----------------------
-I plan to fund <cite>Derby Drama</cite> during [ZineQuest 2](https://creators.kickstarter.com/zine-quest/) in
-February 2020. The game will be released as a set of three zines: a rule and facilitation guide, an
-illustrated guide to roller derby moves and a short premade setting
-(a small-town co-ed roller derby league). I'll also release PDFs and a spreadsheet
- for online play and printable character sheets for offline play.
+<cite>Derby Drama</cite> was funded during [ZineQuest 2](https://creators.kickstarter.com/zine-quest/) in
+February 2020.
 
 <img src="/assets/images/zinequest2.png" class="zinequest">
 
-I support [Kickstarter United](https://kickstarterunited.org/action/) and urge Kickstarter to recognize the union.
-If Kickstarter United requests a boycott, I'll skip ZineQuest and raise money elsewhere to print the zine.
+I support [Kickstarter United](https://kickstarterunited.org/action/).
 
 <img src="/assets/images/ksu_logo.png" class="ksu">
