@@ -36,6 +36,8 @@ When the player split into teams, put your name and your character’s in the sh
 The Scoreboard is where you keep track of the current score. If you’re not
 using Roll For Your Party (see the section below), you can track Team Dice here.
 
+Each team can feel free to tweak the fonts and coloring for the name of their team. :)
+
 Make sure to enter how many players are on each team in the cells at the bottom of each team section.
 
 This is also the sheet where you will select Strategies during the Jam.
