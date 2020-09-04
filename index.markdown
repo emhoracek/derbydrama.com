@@ -145,11 +145,12 @@ The [illustration of skaters](/assets/images/skaters-kaylee-1080w.png) on this p
 Are you ready to roll?
 ----------------------
 
-If you'd like to playtest or chat about Derby Drama, consider [joining the
-Discord Server](https://discord.gg/aMRn37u).  We play a game about every other
-week. You're also welcome to [email me](mailto:libby@libbyhoracek.com) if you'd like
-to run a playtest offline, as long as you don't mind giving plenty of feedback
-on how it goes!
+<iframe frameborder="0" src="https://itch.io/embed/733620" width="552" height="167"><a href="https://horrorcheck.itch.io/derby-drama">Derby Drama by horrorcheck</a></iframe>
+
+If you'd like to play or chat about Derby Drama, consider [joining the
+Discord Server](https://discord.gg/aMRn37u).  You're also welcome to
+ [email me, Libby Horacek](mailto:libby@libbyhoracek.com), if you have
+ any questions about the game or need assistance getting started!
 
 If you just want to hear about the latest news, sign up for the mailing list:
 
